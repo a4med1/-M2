@@ -14,4 +14,6 @@
   * use ~[lower-alpha] to shorten array (for example let ~a be data("input","initial","blah","blah") 
   * so ~a("seriouslytho")="aaa"  is the same as data("input","initial","blah","blah","seriouslytho")="aaa"
   * arrays are tubles. arrays are to globals the same as data("subscript1","subscript2") as ^data^("aaa")
+  * follow the convention of import Module exposing (functiona, functionb, functionc) 
+  * follw the convention of as Something
   * 
