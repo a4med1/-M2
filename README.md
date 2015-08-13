@@ -16,4 +16,7 @@
   * arrays are tubles. arrays are to globals the same as data("subscript1","subscript2") as ^data^("aaa")
   * follow the convention of import Module exposing (functiona, functionb, functionc) 
   * follw the convention of as Something
-  * 
+
+## M shorthand
+* R ok:30 E  do something  (dont have to explicitly check $t)
+* 
