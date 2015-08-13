@@ -18,5 +18,12 @@
   * follw the convention of as Something
 
 ## M shorthand
-* R ok:30 E  do something  (dont have to explicitly check $t)
+* R ok:30 E  do something  (dont have to explicitly check $t) </pre>
+* R *var === w $a("var")  
+* w *13,*10,*80 === w $c(13)_$c(10)_$c(80)
+* ZK --helpful
+* $A("ABCEDE",LOCATION)
+* S REF=$NA(^A(P,4))
+* W REF --> ^A("A",4)
+* $QL (number of subscripts)
 * 
