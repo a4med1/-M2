@@ -33,3 +33,6 @@
 a cli interface for the language. basically a REPL 
 *** ability for modules to add options easliy for dubugging in the future or as a way to easily create api's where worrying about the api itself can come later.
 *** 
+option to set the environment to development on a running production systems for emergencies.
+it will mirror all globals that are needed in the program in a dev copy live so one can work on them and confirm before deploying 
+****
